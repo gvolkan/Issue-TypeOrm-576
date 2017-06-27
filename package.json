@@ -1,0 +1,43 @@
+{
+  "name": "Issue-TypeOrm-576",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YSOUZAS/Issue-TypeOrm-576.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YSOUZAS/Issue-TypeOrm-576/issues"
+  },
+  "homepage": "https://github.com/YSOUZAS/Issue-TypeOrm-576#readme",
+  "dependencies": {
+    "@types/body-parser": "0.0.33",
+    "@types/express": "^4.0.33",
+    "@types/node": "^6.0.78",
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.6",
+    "cors": "^2.8.3",
+    "es6-shim": "^0.35.3",
+    "express": "^4.15.3",
+    "express-validator": "^3.2.0",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^3.1.1",
+    "jsonwebtoken": "^7.4.1",
+    "mssql": "^4.0.4",
+    "reflect-metadata": "^0.1.10",
+    "rxjs": "^5.4.1",
+    "sqlite3": "^3.1.8",
+    "sw-toolbox": "^3.6.0",
+    "ts-node": "^1.6.1",
+    "typeorm": "0.1.0-alpha.20",
+    "typescript": "^2.3.4",
+    "zone.js": "^0.8.12"
+  }
+}
